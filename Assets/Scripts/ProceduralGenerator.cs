@@ -16,6 +16,9 @@ public class ProceduralGenerator : MonoBehaviour
     private GameObject imageTarget;
 
     [SerializeField]
+    private InstructionsController instructionsController;
+
+    [SerializeField]
     private GameObject wallPrefab;
 
     [SerializeField]
@@ -522,6 +525,7 @@ public class ProceduralGenerator : MonoBehaviour
         Render();
         CenterBuilding();
         ReScale(scaleMultiplier);
+        instructionsController.UpdatePositions();
 
         if (!keepInsideWalls)
         {
