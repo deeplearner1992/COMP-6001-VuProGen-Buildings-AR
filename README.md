@@ -2,7 +2,7 @@
 <img width="512" height="512" alt="Icon_with_title" src="https://github.com/user-attachments/assets/1d5cd50e-a859-463e-9aa9-4ad36ef5d5ce" />
 
 ## Description of the Project
-This is a project by Wong Chung Man for COMP-6001 Capstone Project and Dissertation at Open Institute of Technology (OPIT) for BSc in Modern Computer Science, under the supervision of Assistant Professor Tomasz Zawadzki.
+This is a project by Wong Chung Man for COMP-6001 Capstone Project and Dissertation for BSc in Modern Computer Science at Open Institute of Technology (OPIT), under the supervision of Assistant Professor Tomasz Zawadzki.
 
 This project aims to explore the practical aspects of procedural building generation and Augmented Reality (AR). An AR mobile application is developed using Unity and Vuforia, with an UI to allow the users to procedurally generate and edit a building on an image target in real time.
 
