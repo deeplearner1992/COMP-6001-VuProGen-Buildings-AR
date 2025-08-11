@@ -9,6 +9,9 @@ This project aims to explore the practical aspects of procedural building genera
 ## Issue with shadows not showing properly during initial project set-up
 When the project is initally set up, the shadows do not cast properly in game, this is because the build profiles is set to Windows but not Android. To resolve this issue, go to File -> Build Profiles. In Build Profiles, select Android and click "Switch Platform". The shadows should then show properly.
 
+## Image target file
+The image target file can be found in "ImageTarget" folder.
+
 ## In-game screenshots
 <p float="left">
 <img src="https://github.com/user-attachments/assets/e4ce01ef-a2d4-4f89-a837-94ed6f69ddc9" alt="Alt Text" style="width:40%; height:40%;">
