@@ -8,6 +8,9 @@ public class UIController : MonoBehaviour
     private ProceduralGenerator proGen;
 
     [SerializeField]
+    private InstructionsController instructionsController;
+
+    [SerializeField]
     private GameObject verticalUI;
 
     [SerializeField] 
@@ -255,6 +258,8 @@ public class UIController : MonoBehaviour
 
         this.horizontalLimitSlider4.GetComponent<DoubleSlider>().setSlidersUpperLimit(proGen.LeftColumnsUpperLimit);
         this.horizontalLimitSlider4.GetComponent<DoubleSlider>().setSlidersLowerLimit(0);
+
+        this.instructionsController.UpdatePositions();
 
         this.isInitialized = true;
     }

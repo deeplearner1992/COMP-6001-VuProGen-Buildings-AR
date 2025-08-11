@@ -2337,7 +2337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
@@ -4077,7 +4077,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
@@ -5271,6 +5271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   proGen: {fileID: 1732865575}
+  instructionsController: {fileID: 455383792}
   verticalUI: {fileID: 779118111}
   horizontalUI: {fileID: 427660720}
   verticalToggleUIButton: {fileID: 907792459}
@@ -6377,7 +6378,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
@@ -8190,6 +8191,7 @@ MonoBehaviour:
   isMainMenu: 0
   mainMenuParent: {fileID: 0}
   imageTarget: {fileID: 199735873}
+  instructionsController: {fileID: 455383792}
   wallPrefab: {fileID: 1835425970238720548, guid: 086bb23d139a5c84c901691824fad9c3, type: 3}
   roofPrefab: {fileID: 4628385308348452974, guid: 365c587beee652c4fbb7adfe441f08a8, type: 3}
   roofPrefabs:
@@ -10148,7 +10150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3323662671830476119, guid: f56afaf628f1c384b8ac9b3f7a602949, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
